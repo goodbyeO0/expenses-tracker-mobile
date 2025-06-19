@@ -330,9 +330,27 @@ The app implements Firebase Cloud Messaging for:
 - **Privacy Controls**: Users can enable/disable location tracking
 - **Contextual Information**: Location helps with expense categorization
 
-## 🚀 Building for Production
+## 📲 Download & Install
 
-### Android
+### For End Users
+
+If you want to **download and install the app**, join our Telegram group:
+
+**📱 [Download ExpensesTrackerV2 App](https://t.me/+SQsA9kRYn1Y3NWE1)**
+
+The latest APK releases and installation instructions are shared in the **Expenses Tracker Application** Telegram group.
+
+#### What you'll get in the Telegram group:
+
+- 🚀 **Latest APK releases** for Android devices
+- 📋 **Installation instructions** and setup guides
+- 🐛 **Bug reports** and issue discussions
+- 💬 **Community support** from other users
+- 📢 **Update notifications** when new features are released
+
+### For Developers - Building from Source
+
+#### Android
 
 ```bash
 # Build APK
@@ -342,7 +360,7 @@ npx expo build:android
 npx expo build:android --type app-bundle
 ```
 
-### iOS
+#### iOS
 
 ```bash
 # Build for iOS

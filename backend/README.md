@@ -219,6 +219,14 @@ The server provides detailed console logging for:
 
 This backend is designed to work with the **ExpensesTrackerV2** mobile application, providing OCR services for receipt processing and expense tracking.
 
+### 📱 Want the Mobile App?
+
+If you're looking to **download and use the ExpensesTrackerV2 mobile app**, join our Telegram group:
+
+**📱 [Download ExpensesTrackerV2 App](https://t.me/+SQsA9kRYn1Y3NWE1)**
+
+Get the latest APK releases and installation instructions from the **Expenses Tracker Application** Telegram group.
+
 ## 🤝 Contributing
 
 1. Fork the repository
